@@ -5,7 +5,7 @@ This project is a Crop Disease Detection system that utilizes a Convolutional Ne
 You can download the dataset from: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 
-🚀 Steps to Run the Project
+🚀 Steps to Run the Project:
 
 1️⃣ Download and Upload the Dataset
 Before running the code, download the dataset and upload it to the project folder.
