@@ -7,11 +7,11 @@ You can download the dataset from: https://www.kaggle.com/datasets/vipoooool/new
 
 🚀 Steps to Run the Project:
 
-1️⃣ Download and Upload the Dataset
+1️⃣Download and Upload the Dataset:
 Before running the code, download the dataset and upload it to the project folder.
 
-2️⃣ Run the Code
+2️⃣Run the Code:
 Make sure all dependencies are installed and execute the script.
 
-3️⃣ Upload an Image for Prediction
-Provide a test image, and the model will predict the disease type
+3️⃣Upload an Image for Prediction:
+Provide a test image, and the model will predict the disease type.
